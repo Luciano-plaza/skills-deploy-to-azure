@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: c4cker-azure-ttt
-  AZURE_WEBAPP_NAME: c4cker-ttt-app
+  DOCKER_IMAGE_NAME: Luciano-plaza-azure-ttt
+  AZURE_WEBAPP_NAME: Luciano-plaza-ttt-app
   ###############################################
 
 jobs:
